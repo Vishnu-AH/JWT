@@ -1,0 +1,9 @@
+com\pace\springsecurityjwt\entity\User.class
+com\pace\springsecurityjwt\SpringSecurityClientApplication.class
+com\pace\springsecurityjwt\entity\AuthenticationRequest.class
+com\pace\springsecurityjwt\repository\UserRepository.class
+com\pace\springsecurityjwt\config\SecurityConfig.class
+com\pace\springsecurityjwt\util\JwtUtil.class
+com\pace\springsecurityjwt\filter\JwtFilter.class
+com\pace\springsecurityjwt\service\CustomUserDetailService.class
+com\pace\springsecurityjwt\controller\UserController.class
